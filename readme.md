@@ -3,11 +3,11 @@ Find more themes: https://github.com/JulianPrieber/llc-themes
                                                                                                                                                                          
 *	Theme Name: ThemeName
 *	Theme Version: 1.0
-*	Theme Date: YYYY-MM-DD
-*	Theme Author: YourGitHubName
-*	Theme Author URI: https://github.com/YourGitHubName
+*	Theme Date: 2025-10-03
+*	Theme Author: Mellochi
+*	Theme Author URI: https://github.com/Mellochi
 *	Theme License: GPLv3
-*	Source code: https://github.com/YourGitHubName/ThemeName
+*	Source code: https://github.com/Mellochi/name
 
 
 ### Used assets:
